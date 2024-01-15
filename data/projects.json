@@ -22,14 +22,6 @@
             "project_url": "https://netzeronow.org/",
             "description": "Dynamic web app using Laravel and Vue.js for seamless functionality.",
             "tags": [ "Laravel", "Vue.js"]
-        },
-        {
-            "title": "ProNoor",
-            "imageUrl": "/images/pronoor.png",
-            "project_url": "https://pronoor.com/",
-            "description": "Dynamic web app using Laravel and Vue.js for seamless functionality.",
-            "tags": [ "Laravel", "Vue.js" ]
         }
-        
     ]
 }
