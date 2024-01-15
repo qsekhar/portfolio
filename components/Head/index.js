@@ -1,11 +1,11 @@
 import Head from 'next/head'
 import userInfo from "../../data/usersInfo.json"
 
-export default function DomHead({ pageName = "Home Page" }) {
+export default function DomHead() {
 
     return (
         <Head>
-            <title>{userInfo.github_username} Portfolio - {pageName} </title>
+            <title>Subhra Sekhar Mukherjee </title>
             {/* meta tags begins */}
             {/* Primary Meta Tags */}
             <meta name="title" content="Personal Portfolio." />

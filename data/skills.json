@@ -1,19 +1,36 @@
 {
   "skill": [
     {
-      "name": "Full Stack Developer",
-      "description": "Proficient in front-end and back-end technologies, designing and implementing scalable web applications. Experienced in databases, API integration, and responsive UI/UX development.",
-      "projects_completed": "60"
+      "name": "Full Stack Development",
+      "description": "Extensive experience in building end-to-end applications, proficient in both front-end (HTML, CSS, JavaScript, React, Angular) and back-end (Node.js, Python, Ruby on Rails) technologies."
     },
     {
-      "name": "Backend Development",
-      "description": "Development of complex and scalable backend architecture.",
-      "projects_completed": "100"
+      "name": "Database Management:",
+      "description": "Expertise in designing and optimizing databases, with proficiency in SQL and NoSQL databases (MySQL, MongoDB, PostgreSQL)."
     },
     {
-      "name": "Database Design",
-      "description": "Development and Designing of complex scalable database achitecture.",
-      "projects_completed": "30"
+      "name": "Server-side Development",
+      "description": "Proven ability to develop scalable and efficient server-side logic, utilizing frameworks such as Express.js and Django."
+    },
+    {
+      "name": "API Integration",
+      "description": "Skilled in integrating third-party APIs and creating robust RESTful APIs for seamless communication between different components of a system."
+    },
+    {
+      "name": "DevOps and Deployment",
+      "description": "Proficient in deploying applications using containerization (Docker) and orchestration tools (Kubernetes). Experience with continuous integration and deployment (CI/CD) pipelines."
+    },
+    {
+      "name": "Agile Methodologies",
+      "description": "In-depth understanding and application of Agile and Scrum methodologies to drive efficient and iterative development processes."
+    },
+    {
+      "name": "Troubleshooting and Debugging",
+      "description": "Exceptional problem-solving skills, with a track record of identifying and resolving complex technical issues efficiently."
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "Well-versed in creating intuitive and visually appealing user interfaces, with a focus on enhancing user experience."
     }
   ]
 }

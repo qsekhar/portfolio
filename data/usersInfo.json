@@ -1,16 +1,14 @@
 {
-  "full_name": "Subhra Sekhar Mukherjee",
-  "tag_line": "Building seamless experiences from front-end design to back-end functionality.",
-  "intro_tagline": 
-  "Crafting seamless digital experiences with code mastery—Full Stack Developer transforming ideas into interactive reality." ,
-  "subTitle": "Problem solving is what makes me unique.",
-  "tech_year": "2012",
-  "github_username": "qsekhar",
-  "user_skill": "Full Stack Developer",
-  "favorites_quote": 
-  "A Full Stack Developer is a versatile architect of the digital realm, seamlessly weaving front-end finesse with back-end wizardry. From crafting captivating user interfaces to optimizing server performance, they navigate the entire web development spectrum. Their code is poetry, building bridges between design and functionality, creating digital symphonies that redefine user experiences.",
-  "greeting_type": "Hi ✌",
-  "bio_desc": [
-    "Passionate Full Stack Developer with expertise in front-end and back-end technologies. Proven track record of delivering high-quality software solutions. Enthusiastic about creating seamless, user-friendly experiences through innovative coding. ✨"
-  ]
+    "full_name": "Subhra Sekhar Mukherjee",
+    "tag_line": "Building seamless experiences from front-end design to back-end functionality.",
+    "intro_tagline": "Crafting seamless digital experiences with code mastery—Full Stack Developer transforming ideas into interactive reality.",
+    "subTitle": "Problem solving is what makes me unique.",
+    "tech_year": "2012",
+    "github_username": "qsekhar",
+    "user_skill": "Full Stack Developer",
+    "favorites_quote": "The significance lies not in the destination, but in the journey itself.",
+    "greeting_type": "Hi ✌",
+    "bio_desc": [
+        "Results-oriented and seasoned Full Stack Developer with over 10 years of hands-on experience in designing, developing, and implementing innovative software solutions. Adept at collaborating with cross-functional teams to deliver high-quality products that meet and exceed client expectations. Proven expertise in the entire software development life cycle, from concept and design to testing and deployment. Possess a strong background in both front-end and back-end technologies, with a keen ability to leverage a diverse skill set to tackle complex challenges.. ✨"
+    ]
 }

@@ -64,11 +64,7 @@ function IntroCards({ data }) {
                                         {skill.description}
                                     </span>
                                 </div>
-                                <div className={`absolute bottom-[10px]`}>
-                                    <a className={` text-[14px] text-white-200 font-bold underline `}>
-                                        {skill.projects_completed} Projects
-                                    </a>
-                                </div>
+                                
                                 <ion-icon name="color-wand" class={`absolute top-[10px] right-[10px] text-green-400 p-[5px] `}></ion-icon>
                             </div>
                         )
