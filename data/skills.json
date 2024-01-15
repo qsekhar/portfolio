@@ -1,0 +1,19 @@
+{
+  "skill": [
+    {
+      "name": "Full Stack Developer",
+      "description": "Proficient in front-end and back-end technologies, designing and implementing scalable web applications. Experienced in databases, API integration, and responsive UI/UX development.",
+      "projects_completed": "60"
+    },
+    {
+      "name": "Backend Development",
+      "description": "Development of complex and scalable backend architecture.",
+      "projects_completed": "100"
+    },
+    {
+      "name": "Database Design",
+      "description": "Development and Designing of complex scalable database achitecture.",
+      "projects_completed": "30"
+    }
+  ]
+}

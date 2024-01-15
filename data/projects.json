@@ -1,0 +1,35 @@
+ 
+
+{
+    "projects":[
+        {
+            "title": "MRCEM Exam Prep",
+            "imageUrl": "/images/mrcemexamprep.jpg",
+            "project_url": "https://mrcemexamprep.net/",
+            "description": "Dynamic web app: Laravel backend, AngularJS frontend, seamless integration, robust functionality.",
+            "tags": [ "Laravel", "AngularJS" ]
+        },
+        {
+            "title": "natuurhuisje",
+            "imageUrl": "/images/natuurhuisje.png",
+            "project_url": "https://www.natuurhuisje.nl/",
+            "description": "Laravel project: Modern PHP framework for elegant, efficient web development solutions.",
+            "tags": [ "Laravel" ]
+        },
+        {
+            "title": "netzeronow",
+            "imageUrl": "/images/netzeronow.png",
+            "project_url": "https://netzeronow.org/",
+            "description": "Dynamic web app using Laravel and Vue.js for seamless functionality.",
+            "tags": [ "Laravel", "Vue.js"]
+        },
+        {
+            "title": "ProNoor",
+            "imageUrl": "/images/pronoor.png",
+            "project_url": "https://pronoor.com/",
+            "description": "Dynamic web app using Laravel and Vue.js for seamless functionality.",
+            "tags": [ "Laravel", "Vue.js" ]
+        }
+        
+    ]
+}
