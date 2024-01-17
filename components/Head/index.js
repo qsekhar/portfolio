@@ -14,14 +14,14 @@ export default function DomHead() {
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://github.com/qsekhar" />
             <meta property="og:title" content="Personal Portfolio" />
-            <meta property="og:description" content="Generating of portfolio just got easier. Using BaayMax and a single command, you're on set." />
+            <meta property="og:description" content="" />
             <meta property="og:image" content="https://github.com/qsekhar" />
 
             {/* <!-- Twitter --> */}
             <meta property="twitter:card" content="summary_large_image" />
             <meta property="twitter:url" content="https://metatags.io/" />
             <meta property="twitter:title" content="Benrobo- Personal Portfolio" />
-            <meta property="twitter:description" content="Generating of portfolio just got easier. Using BaayMax and a single command, you're on set." />
+            <meta property="twitter:description" content="" />
             <meta property="twitter:image" content="https://github.com/qsekhar" />
 
             {/* meta tags end */}
